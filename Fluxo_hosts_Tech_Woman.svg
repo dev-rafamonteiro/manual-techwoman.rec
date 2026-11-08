@@ -1,0 +1,17 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="410" viewBox="0 0 1200 410" role="img" aria-labelledby="t d">
+<title id="t">Fluxo de atendimento da HOST</title><desc id="d">Cinco etapas desde acolher participante até concluir mentoria, com caminho de exceção para fila e notificações.</desc>
+<defs><style>.bg{fill:#fbf8fc}.top{fill:#3c0b47}.white{fill:#fff}.card{fill:#fff;stroke:#eadfed;stroke-width:2}.title{font:700 23px system-ui,sans-serif;fill:#fff}.label{font:700 18px system-ui,sans-serif;fill:#3c0b47}.sub{font:15px system-ui,sans-serif;fill:#63566a}.arrow{stroke:#f36b38;stroke-width:4;fill:none;marker-end:url(#a)}.num{fill:#f36b38}.n{font:700 16px system-ui,sans-serif;fill:#fff}.exception{fill:#fff3ec;stroke:#f3b18c;stroke-width:2}.note{font:14px system-ui,sans-serif;fill:#645b67}</style><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#f36b38"/></marker></defs>
+<rect class="bg" width="1200" height="410" rx="20"/><rect class="top" x="20" y="18" width="1160" height="66" rx="14"/><text class="title" x="48" y="59">Jornada da participante · roteiro de acompanhamento da HOST</text>
+<g transform="translate(25 112)">
+<g><rect class="card" width="205" height="145" rx="14"/><circle class="num" cx="27" cy="29" r="16"/><text class="n" x="23" y="35">1</text><text class="label" x="20" y="66">Acolher</text><text class="sub" x="20" y="94">Orientar para fazer a jornada</text><text class="sub" x="20" y="117">e concluir a inscrição.</text></g>
+<path class="arrow" d="M210 72 H232"/>
+<g transform="translate(235)"><rect class="card" width="205" height="145" rx="14"/><circle class="num" cx="27" cy="29" r="16"/><text class="n" x="23" y="35">2</text><text class="label" x="20" y="66">Acompanhar fila</text><text class="sub" x="20" y="94">Dashboard + Participantes;</text><text class="sub" x="20" y="117">prioridade, área e período.</text></g>
+<path class="arrow" d="M445 72 H467"/>
+<g transform="translate(470)"><rect class="card" width="205" height="145" rx="14"/><circle class="num" cx="27" cy="29" r="16"/><text class="n" x="23" y="35">3</text><text class="label" x="20" y="66">Aguardar convite</text><text class="sub" x="20" y="94">Mentora propõe horário</text><text class="sub" x="20" y="117">e mesa; status proposto.</text></g>
+<path class="arrow" d="M680 72 H702"/>
+<g transform="translate(705)"><rect class="card" width="205" height="145" rx="14"/><circle class="num" cx="27" cy="29" r="16"/><text class="n" x="23" y="35">4</text><text class="label" x="20" y="66">Confirmar</text><text class="sub" x="20" y="94">Participante responde pelo</text><text class="sub" x="20" y="117">celular; confira no mapa.</text></g>
+<path class="arrow" d="M915 72 H937"/>
+<g transform="translate(940)"><rect class="card" width="205" height="145" rx="14"/><circle class="num" cx="27" cy="29" r="16"/><text class="n" x="23" y="35">5</text><text class="label" x="20" y="66">Direcionar e concluir</text><text class="sub" x="20" y="94">Encaminhar à mesa certa;</text><text class="sub" x="20" y="117">conferir status pós-sessão.</text></g>
+</g>
+<path class="arrow" d="M575 264 V295 H350"/><rect class="exception" x="205" y="300" width="790" height="74" rx="14"/><text class="label" x="232" y="329">Algo não avançou?</text><text class="sub" x="232" y="354">Confira status em Participantes, ocupação no Mapa e entrega em Logs; depois oriente a pessoa ou acione a coordenação.</text>
+</svg>
